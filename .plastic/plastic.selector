@@ -1,0 +1,4 @@
+repository "Little Adventurer@mr_shanwei@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
